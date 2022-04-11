@@ -1,0 +1,24 @@
+import wbgapi as wb
+import pandas
+
+help(wb)
+print(wb.series.info())
+EG.FEC.RNEW.ZS renewable energy consumption (% of total final energy consumption)
+EG.USE.COMM.FO.ZS          Fossil fuel energy consumption (% of total)
+EN.ATM.CO2E.PC             CO2 emissions (metric tons per capita)
+EN.ATM.CO2E.EG.ZS          CO2 intensity (kg per kg of oil equivalent energy use)
+EN.ATM.GHGO.KT.CE          Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)
+EN.ATM.HFCG.KT.CE          HFC gas emissions (thousand metric tons of CO2 equivalent)
+EN.ATM.METH.KT.CE          Methane emissions (kt of CO2 equivalent)
+EN.ATM.NOXE.KT.CE          Nitrous oxide emissions (thousand metric tons of CO2 equivalent)
+EN.ATM.PFCG.KT.CE          PFC gas emissions (thousand metric tons of CO2 equivalent)
+EN.ATM.PM25.MC.M3          PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)
+EN.ATM.SF6G.KT.CE          SF6 gas emissions (thousand metric tons of CO2 equivalent)
+EN.CLC.MDAT.ZS             Droughts, floods, extreme temperatures (% of population, average 1990-2009)
+EG.FEC.RNEW.ZS             Renewable energy consumption (% of total final energy consumption)
+NY.GDP.PCAP.CD             GDP per capita (current US$)
+NY.GDP.NGAS.RT.ZS          Natural gas rents (% of GDP)
+SI.POV.LMIC.GP             Poverty gap at $3.20 a day (2011 PPP) (%)
+SI.POV.MDIM                Multidimensional poverty headcount ratio (% of total population)
+SH.STA.AIRP.P5             Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)
+
