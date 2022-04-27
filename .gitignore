@@ -10,3 +10,6 @@ countries.csv
 main_df.csv
 python interpreter
 CLASS.xls
+.idea
+.ipynb_checkpoints
+.DS_Store
